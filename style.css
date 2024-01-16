@@ -1,0 +1,25 @@
+h1 {
+    color:rgb(255, 179, 186);
+    font-family:arial;
+}
+
+h2{
+    color: rgb(216, 158, 255);
+    font-family:arial;
+}
+
+p {
+    font-family: arial;
+}
+p{
+    color:blueviolet;
+}
+
+img {
+    border-radius: 8px;
+}
+
+body {
+    cursor: pointer;
+    background-color:antiquewhite;
+}
